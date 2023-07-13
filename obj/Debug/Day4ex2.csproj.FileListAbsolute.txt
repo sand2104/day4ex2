@@ -1,0 +1,8 @@
+C:\data\Day4ex2\Day4ex2\bin\Debug\Day4ex2.exe.config
+C:\data\Day4ex2\Day4ex2\bin\Debug\Day4ex2.exe
+C:\data\Day4ex2\Day4ex2\bin\Debug\Day4ex2.pdb
+C:\data\Day4ex2\Day4ex2\obj\Debug\Day4ex2.csproj.AssemblyReference.cache
+C:\data\Day4ex2\Day4ex2\obj\Debug\Day4ex2.csproj.SuggestedBindingRedirects.cache
+C:\data\Day4ex2\Day4ex2\obj\Debug\Day4ex2.csproj.CoreCompileInputs.cache
+C:\data\Day4ex2\Day4ex2\obj\Debug\Day4ex2.exe
+C:\data\Day4ex2\Day4ex2\obj\Debug\Day4ex2.pdb
